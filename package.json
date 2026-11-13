@@ -1,0 +1,11 @@
+{
+  "name": "vr-golf",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "WebXR golf for the Meta Quest 3 browser, built entirely from code.",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "serve": "python3 -m http.server 8080"
+  }
+}
